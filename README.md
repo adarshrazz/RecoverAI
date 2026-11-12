@@ -227,7 +227,7 @@ PAYPAL_WEBHOOK_ID=your_paypal_webhook_id
 GEMINI_API_KEY=your_gemini_api_key
 ```
 
-Use your own credentials. Never commit `.env` or expose API secrets publicly.
+Use your own credentials. Never commit `.env` or expose API secrets publicly. For security purpose the id and other keys are not revealed publicly.
 
 ### 4. Set up the database
 
