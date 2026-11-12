@@ -225,9 +225,10 @@ PAYPAL_CLIENT_ID=your_paypal_client_id
 PAYPAL_CLIENT_SECRET=your_paypal_client_secret
 PAYPAL_WEBHOOK_ID=your_paypal_webhook_id
 GEMINI_API_KEY=your_gemini_api_key
+For security purpose the id and other keys are not revealed publicly.
 ```
 
-Use your own credentials. Never commit `.env` or expose API secrets publicly. For security purpose the id and other keys are not revealed publicly.
+Use your own credentials. Never commit `.env` or expose API secrets publicly. 
 
 ### 4. Set up the database
 
